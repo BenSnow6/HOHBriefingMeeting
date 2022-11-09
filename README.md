@@ -53,7 +53,7 @@ HOHD Briefing in the morning at 9:15am
 
 ![danger](milk.png)
 
-## Setup
+## Friday setup
 
 ![setup](setup.png)
 
@@ -61,3 +61,25 @@ HOHD Briefing in the morning at 9:15am
 ## Saturday
 
 ![saturday](saturday.png)
+
+## Accessibility
+
+![accessibility](accessibility.png)
+
+## Fire safety
+
+![fire](fire.png)
+![evacuation](evacuation.png)
+
+## Green room
+
+![greenroom](greenroom.png)
+
+## Photos
+![photos](photos.png)
+![consentforms](consentforms.png)
+
+## Release consent
+
+![release](releaseconsent.png)
+
