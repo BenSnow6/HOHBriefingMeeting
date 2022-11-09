@@ -83,3 +83,13 @@ HOHD Briefing in the morning at 9:15am
 
 ![release](releaseconsent.png)
 
+## Evaluation
+![evaluation](evaluation.png)
+
+## Resources
+![resources](resources.png)
+
+Radio interviews and TV interviews if you want to be involved!
+
+# Fun
+![fun](fun.png)
