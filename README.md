@@ -56,3 +56,8 @@ HOHD Briefing in the morning at 9:15am
 ## Setup
 
 ![setup](setup.png)
+
+
+## Saturday
+
+![saturday](saturday.png)
