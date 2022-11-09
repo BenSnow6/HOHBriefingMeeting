@@ -35,7 +35,7 @@ ID badges
 - Wear at all times
 - *Bring a lanyard!!*
 
-![Bagdes](Badges.png)
+![Bagdes](images/Badges.png)
 
 **Use the exhibitor handbook for more information**
 
@@ -43,7 +43,7 @@ HOHD Briefing in the morning at 9:15am
 
 ## Supplied equipment
 
-![equipment](equipment.png)
+![equipment](images/equipment.png)
 
 ## Need help?
 
