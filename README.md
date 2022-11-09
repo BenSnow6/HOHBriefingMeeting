@@ -47,49 +47,49 @@ HOHD Briefing in the morning at 9:15am
 
 ## Need help?
 
-![help](cake.png)
+![help](images/cake.png)
 
 ## Danger?
 
-![danger](milk.png)
+![danger](images/milk.png)
 
 ## Friday setup
 
-![setup](setup.png)
+![setup](images/setup.png)
 
 
 ## Saturday
 
-![saturday](saturday.png)
+![saturday](images/saturday.png)
 
 ## Accessibility
 
-![accessibility](accessibility.png)
+![accessibility](images/accessibility.png)
 
 ## Fire safety
 
-![fire](fire.png)
-![evacuation](evacuation.png)
+![fire](images/fire.png)
+![evacuation](images/evacuation.png)
 
 ## Green room
 
-![greenroom](greenroom.png)
+![greenroom](images/greenroom.png)
 
 ## Photos
-![photos](photos.png)
-![consentforms](consentforms.png)
+![photos](images/photos.png)
+![consentforms](images/consentforms.png)
 
 ## Release consent
 
-![release](releaseconsent.png)
+![release](images/releaseconsent.png)
 
 ## Evaluation
-![evaluation](evaluation.png)
+![evaluation](images/evaluation.png)
 
 ## Resources
-![resources](resources.png)
+![resources](images/resources.png)
 
 Radio interviews and TV interviews if you want to be involved!
 
 # Fun
-![fun](fun.png)
+![fun](images/fun.png)
